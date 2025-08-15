@@ -7,9 +7,10 @@ A real-time call translation app for my BSc capstone project, combining speech r
 Databases, networking & APIs as part of my personal "ladder" plan to master distributed systems, security, and AI-native engineering.
 
 🤝 **Looking to collaborate on:**  
-Challenging projects, from AI-driven applications to immersive Unity games. I am especially interested in building smart, scalable systems and interactive multiplayer experiences.  
+Challenging projects, from AI-driven applications to immersive Unity games. I am especially interested in building smart, scalable systems and interactive multiplayer experiences. 
+
 ---
-### ⚡ About me
+##⚡ About me
 🖥 Final-year Software Engineering student at Braude College. 🚀 Currently diving into AWS, Flutter, and Japanese on Udemy.  
 🏋️‍♂️ Certified fitness trainer, I like building both apps and muscle. ❤️ love spending downtime with my wife, Paulina, and our cats,   
 
