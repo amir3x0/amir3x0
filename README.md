@@ -1,4 +1,4 @@
-# Hi there 👋, I’m Miri
+# Hi there 👋, I’m Amir Mishayev
 
 💻 **Currently working on:**  
 A real-time call translation app for my BSc capstone project — speech recognition, machine translation, and cloned voice output. Goal: under 2 seconds latency, natural flow, multi-speaker support.
