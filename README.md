@@ -4,10 +4,10 @@
 A real-time call translation app for my BSc capstone project, combining speech recognition, machine translation, and cloned voice output. Target: under 2 seconds latency, natural flow, multi-speaker support.
 
 📚 **Currently enhancing my skills on:**  
-Databases, networking & APIs as part of my personal "ladder" plan to master distributed systems, security, and AI-native engineering.
+AI engineering (building with LLMs, vision models, fine-tuning, and agents), cloud technologies (AWS), and modern app frameworks like Flutter and React.
 
 🤝 **Looking to collaborate on:**  
-Challenging projects, from AI-driven applications to immersive Unity games. I am especially interested in building smart, scalable systems and interactive multiplayer experiences. 
+Projects at the intersection of AI and software engineering — things like real-time applications, agent workflows, RAG systems, and multiplayer game development in Unity.
 
 ---
 ### ⚡ About me
