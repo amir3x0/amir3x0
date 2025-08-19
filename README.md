@@ -1,4 +1,5 @@
 # Hi there 👋, I’m Amir Mishayev
+**AI Enthusiast | Software Engineering Student | Fitness Trainer**
 
 💻 **Currently working on:**  
 A real-time call translation app for my BSc capstone project, combining speech recognition, machine translation, and cloned voice output. Target: under 2 seconds latency, natural flow, multi-speaker support.
