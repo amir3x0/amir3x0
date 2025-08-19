@@ -11,8 +11,8 @@ Projects at the intersection of AI and software engineering — things like real
 
 ---
 ### ⚡ About me
-🖥 Final-year Software Engineering student at Braude College. 🚀 Currently diving into AWS, Flutter, and Japanese on Udemy.  
-🏋️‍♂️ Certified fitness trainer, I like building both apps and muscle. ❤️ love spending downtime with my wife, Paulina, and our cats,   
+🖥 Final-year Software Engineering student at Braude College. 🚀 Always learning: currently diving into AI agents, AWS, Flutter, and Japanese.  
+🏋️‍♂️ Certified fitness trainer, I like building both apps and muscle. ❤️ love spending downtime with my wife, Paulina, and our two cats,   
 
 📫 **How to reach me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-mishayev/) [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:amir.mishayev@gmail.com)
